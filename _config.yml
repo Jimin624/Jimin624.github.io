@@ -22,7 +22,7 @@ title                    : "Jimin Park"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jimin Park"
-description              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people process, learn, and understand numerical information. This includes symbolic numbers such as integers, fractions, and also non-symbolic numbers that are presented in data visualizaitons."
+description              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people process, learn, and understand numerical information. This includes symbolic numbers such as integers, fractions, and also non-symbolic numbers that are presented in data visualizations."
 url                      : "https://jimin624.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Jimin Park"
   avatar           : "/assets/images/headshot.png"
-  bio              : "Welcome to my page! I am a PhD Candidate at the University of Minnesota. I study how people process, learn, and understand numerical information. This includes symbolic numbers such as integers, fractions, and also non-symbolic numbers that are presented in data visualizaitons"
+  bio              : "Welcome to my page! I am a PhD Candidate in Educational Psychology at the University of Minnesota. I study how people process, learn, and understand numerical information. This includes symbolic numbers such as integers, fractions, and also non-symbolic numbers that are presented in data visualizaitons."
   location         : "Minneapolis, MN"
   email            : "park1481@umn.edu"
   links:

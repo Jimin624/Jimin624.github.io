@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
-    url: https://jimin624.github.io/research
+    url: /research/
   - title: "CV"
     url: https://drive.google.com/file/d/1et7AOxFpcu5DsWt-jHWB0vMkzbSHynT9/view?usp=share_link
   # - title: "Sample Collections"
