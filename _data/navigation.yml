@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://jimin624.github.io/about
+    url: /about/
   - title: "Research"
     url: https://jimin624.github.io/research
   - title: "CV"
