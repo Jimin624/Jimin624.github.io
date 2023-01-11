@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: /year-archive/  
+    url: https://jimin624.github.io/about
   - title: "Research"
-    url: /docs/research/
+    url: https://jimin624.github.io/research
   - title: "CV"
     url: https://drive.google.com/file/d/1et7AOxFpcu5DsWt-jHWB0vMkzbSHynT9/view?usp=share_link
   # - title: "Sample Collections"
