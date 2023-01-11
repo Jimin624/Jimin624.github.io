@@ -19,10 +19,10 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Jimin Park"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "Home|"
+subtitle                 : "small positive action"
 name                     : "Jimin Park"
-description              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people learn and understand numerical information. This includes understanding integers, fractions, and even grasping information in data visualizaitons"
+description              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people learn and understand numerical information such as integers, fractions, and data visualizaitons"
 url                      : "https://jimin624.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jimin Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people learn and understand numerical information such as integers, fractions, and data visualizaitons"
+  location         : "Minneapolis, MN"
+  email            : "park1481@umn.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "park1481@umn.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
