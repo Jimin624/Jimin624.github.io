@@ -1,11 +1,11 @@
 # main links
 main:
+  - title: "About"
+    url: /year-archive/  
   - title: "Research"
     url: /docs/research/
   - title: "CV"
-    url: /cv/
-  # - title: "Others"
-  #   url: /year-archive/
+    url: https://drive.google.com/file/d/1et7AOxFpcu5DsWt-jHWB0vMkzbSHynT9/view?usp=share_link
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
