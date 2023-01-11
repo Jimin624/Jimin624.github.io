@@ -19,15 +19,10 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Jimin Park"
-<<<<<<< HEAD
-title_separator          : "Home|"
-subtitle                 : "small positive action"
-=======
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
->>>>>>> be826617962c0a3abd91fb04dba700e243c6a127
 name                     : "Jimin Park"
-description              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people learn and understand numerical information such as integers, fractions, and data visualizaitons"
+description              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people process, learn, and understand numerical information. This includes symbolic numbers such as integers, fractions, and also non-symbolic numbers that are presented in data visualizaitons"
 url                      : "https://jimin624.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Jimin Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people learn and understand numerical information such as integers, fractions, and data visualizaitons"
+  avatar           : "/assets/images/headshot.png"
+  bio              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people process, learn, and understand numerical information. This includes symbolic numbers such as integers, fractions, and also non-symbolic numbers that are presented in data visualizaitons"
   location         : "Minneapolis, MN"
   email            : "park1481@umn.edu"
   links:
