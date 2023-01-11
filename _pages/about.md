@@ -5,7 +5,8 @@ permalink: /about/
 author_profile: true
 sidebar_main: true
 ---
-[IS THIS IT?] I am a cognitive scientist who is passionate to investigate how people process, learn, and think from multiple asepcts. My research particularly focuses on human understanding of numbers - the field is called **numercial cognition**. Have you ever thought about your own cognitive mechanisms when you compare numbers, for example, 12 vs. 25? Though these are two simple integers, there could be "more going on in your brain" than you think! You will be able to learn a little bit about the field if you explore this web page! 
+
+I am a cognitive scientist who is passionate to investigate how people process, learn, and think from multiple asepcts. My research particularly focuses on human understanding of numbers - the field is called **numercial cognition**. Have you ever thought about your own cognitive mechanisms when you compare numbers, for example, 12 vs. 25? Though these are two simple integers, there could be "more going on in your brain" than you think! You will be able to learn a little bit about the field if you explore this web page! 
  
 ## What do you do when you are not in office? 
 There are many things I do to keep a healthy work-life balance. I love playing tennis, going to the gym, running - anything that helps me sweat and destress! I also love travelling. Some of my favorite places are NYC, Paris, Tokyo, and Seoul. I love mega cities because there are always something new that I can find everytime I visit. I am also a foodie who loves to try new food, restaurants, and coffee shops. 
