@@ -2,7 +2,7 @@
 layout: single
 title: "More About Me"
 permalink: /about/
-author_profile: false
+author_profile: true
 sidebar_main: true
 ---
 In case you want to know more about me: I am originally from Busan, South Korea. I moved to the States when I was 15 years old as an exchange student. Moving to another continent was more challenging than expected. I had to learn a new language, face a new culture, and make new friends. Though the transition was difficult, this was when I started to think about individual differences and how they influence human cogntion. My research questions are often driven from personal experiences (me-search) and that is why I love going outside, exploring something new, throwing questions to the world.
