@@ -2,17 +2,19 @@
 layout: single
 title: "About Me"
 permalink: /about/
-author_profile: true
+author_profile: false
 sidebar_main: true
 ---
 
-I am a cognitive scientist who is passionate to investigate how people process, learn, and think from multiple asepcts. My research particularly focuses on human understanding of numbers - the field is called **numercial cognition**. Have you ever thought about your own cognitive mechanisms when you compare numbers, for example, 12 vs. 25? Though these are two simple integers, there could be "more going on in your brain" than you think! You will be able to learn a little bit about the field if you explore this web page! 
+I am a cognitive scientist who is passionate to investigate how people process, learn, and think. My research particularly focuses on cognitive mechanisms underlying the number comprehension - field called **numercial cognition**. 
+
+What do you think people would do when they are asked to compare numbers, for example, 12 vs. 25? Would comparing 112 vs. 125 be as easy as 12 vs. 25? What if people speak other languages? Though 12 vs. 25 seems like a simple comparison, *there could be more happening* than you think! You will be able to know a little bit more about the area if you explore my page! 
  
-## What do you do when you are not in office? 
-There are many things I do to keep a healthy work-life balance. I love playing tennis, going to the gym, running - anything that helps me sweat and destress! I also love travelling. Some of my favorite places are NYC, Paris, Tokyo, and Seoul. I love mega cities because there are always something new that I can find everytime I visit. I am also a foodie who loves to try new food, restaurants, and coffee shops. 
+### Why do you do psychology research? 
+I enjoy asking questions and finding answers. I always found it fascinating that everyone learns, processes, and thinks differently. Psychology research is a great way to investigate why and how this happens. I also love making implications and applying the findings to the real world settings. This is why my research focuses on questions in education and data visualizations. I plan to expand my research to more areas! 
 
-## Language Compatibility Effect in Processing Fractions
-I first investigated if a language privileges its naming of a number. The study was done in the context of fractions where English names the numerator of a fraction first whereas Korean names the denominator first. 
+### What do you do when you are not in office? 
+There are many things I do to keep a healthy work-life balance. I love playing tennis, going to the gym, running - anything that helps me sweat and destress! I spend most of my vacation time on traveling to fun places in the world! Some of my favorite places to visit are NYC, Paris, Tokyo, and Seoul. These  cities always keep me entertained with good restaurants, coffee shops, museums, and activities. 
 
-## Does Instruction Influence Processing Reducible Fractions (e.g., 2/6)? 
-Then research expanded to educational aspect: how people reason about reducible fractions (e.g., 4/6) versus irreducible fractions (e.g., 2/3). I recently extended research area to data visualization. Her research currently explores whether numerical magnitudes are recruited to understand bar graphs, and thus inform the design of bar graphs that simplify their understanding.
+### More about me
+In case you want to know more about me: I am originally from Busan, South Korea. I moved to the States when I was 15 years old as an exchange student. Moving to another continent was more challenging than expected. I had to learn a new language, face a new culture, and make new friends. Though the transition was difficult, this was when I started to think about individual differences in humans and how they influence cogntion. My research questions are often driven from my experiences (me-search) and that is why I love going out there, experiencing something new, throwing questions to the world! 
