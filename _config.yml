@@ -110,11 +110,11 @@ author:
   avatar           : "/assets/images/headshot1.png"
   bio              : "PhD candidate in Educational Psychology at the University of Minnesota"
   location         : "Minneapolis, MN"
-  # email            : "park1481@umn.edu"
+  email            : "park1481@umn.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "park1481@umn.edu"
+      # url: "park1481@umn.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?hl=en&user=jn1Yc1MAAAAJ"
