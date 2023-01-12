@@ -5,12 +5,13 @@ permalink: /research/
 author_profile: false
 sidebar_main: true
 ---
-How would you compare these two numbers: 57 and 21?
-> What about comparing 35 and 29?
-> What if those numbers are presented as bars in a graph?
-> What if you compare the numbers in another language?
-> There could be *more happening* than you think! 
->
+How would you compare these two numbers: 57 and 21?<br>
+What about comparing 35 and 29?<br>
+What if those numbers are presented as bars in a graph?<br>
+What if you compare the numbers in another language?<br>
+There could be *more happening* than you think! <br>
+<br>
+
 ### Current Research (Dissertation!)
 My dissertation connects two important areas in cognitive science - numerical cognition and data visualizations. The research applies theories and experimental paradigms from numerical cognition to investigate whether people recruit magnitude representations to understand the numerical values depicted in bar graphs. My plan is to run three experiments for dissertation. They will evaluate theory-driven predictions concerning the relative efficacy of vertical vs. horizontal bars, how people resolve conflicts between the magnitudes of bars and the numerical values they depict, and the role of gridlines in improving bar graph comprehension. 
 
