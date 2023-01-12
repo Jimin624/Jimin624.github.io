@@ -22,12 +22,12 @@ title                    : "Home"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jimin Park"
-description              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people process, learn, and understand numerical information. This includes symbolic numbers such as integers, fractions, and also non-symbolic numbers that are presented in data visualizations."
+description              : "Jimin Park's personal research github page"
 url                      : "https://jimin624.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog" - note that this is not the subdomain
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # "/assets/images/logo.jpg"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" 
+logo                     : # "/assets/images/logo.jpg" - decided to drop the logo
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
@@ -98,10 +98,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-YP531K4YXD"
+    anonymize_ip         : false (default)
 
 
 # Site Author
