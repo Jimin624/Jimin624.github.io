@@ -13,3 +13,10 @@ I enjoy asking questions and finding answers. I always found it fascinating that
 ### What do I do when you are not in office? 
 There are many things I do to keep a healthy work-life balance. I love playing tennis, going to the gym, running - anything that helps me sweat and destress! I spend most of my vacation time on traveling to fun places in the world! Some of my favorite places to visit are NYC, Paris, Tokyo, and Seoul. These  cities always keep me entertained with good restaurants, coffee shops, museums, and activities. 
 
+<figure class="third">
+    <a href="/assets/images/newyork.jpeg"><img src="/assets/images/newyork.jpeg"></a>
+    <a href="/assets/images/paris.jpeg"><img src="/assets/images/paris.jpeg"></a>
+    <a href="/assets/images/busan.jpeg"><img src="/assets/images/busan.jpeg"></a>
+    <figcaption>Places I have visitied</figcaption>
+</figure>
+
