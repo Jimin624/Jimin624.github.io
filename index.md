@@ -9,4 +9,4 @@ I am a cognitive scientist who is passionate to investigate how people process, 
 
 I am also an Instructional Technology Fellow for the College of Education and Human Development. I, as a part of the Digial Education and Innoavation team, assist instructors in developing courses that encourage student engagement and maximize learning experiences. Please visit our [website](https://academics.cehd.umn.edu/digital-education/) if you like to know about what we do.
 
-If you have any questions, please send me an email! 
+Please email me anytime if you have any questions! 

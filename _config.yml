@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jimin Park"
+title                    : "Home"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Home"
+name                     : "Jimin Park"
 description              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people process, learn, and understand numerical information. This includes symbolic numbers such as integers, fractions, and also non-symbolic numbers that are presented in data visualizations."
 url                      : "https://jimin624.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
