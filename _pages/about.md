@@ -16,7 +16,7 @@ There are many things I do to keep a healthy work-life balance. I love playing t
 <figure class="third">
     <a href="/assets/images/newyork.jpeg"><img src="/assets/images/newyork.jpeg"></a>
     <a href="/assets/images/paris.jpeg"><img src="/assets/images/paris.jpeg"></a>
-    <a href="/assets/images/busan.jpeg"><img src="/assets/images/busan.jpeg"></a>
-    <figcaption>Places I have visitied</figcaption>
+    <a href="/assets/images/minneapolis.jpeg"><img src="/assets/images/minneapolis.jpeg"></a>
+    <figcaption> </figcaption>
 </figure>
 
