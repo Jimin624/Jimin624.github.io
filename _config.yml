@@ -21,7 +21,7 @@ locale                   : "en-US"
 title                    : "Jimin Park"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jimin Park"
+name                     : "Home"
 description              : "Welcome to my website! I am a PhD Candidate at the University of Minnesota. I study how people process, learn, and understand numerical information. This includes symbolic numbers such as integers, fractions, and also non-symbolic numbers that are presented in data visualizations."
 url                      : "https://jimin624.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jimin Park"
-  avatar           : "/assets/images/headshot.png"
+  avatar           : "/assets/images/headshot1.png"
   bio              : "PhD candidate in Educational Psychology at the University of Minnesota"
   location         : "Minneapolis, MN"
   # email            : "park1481@umn.edu"
