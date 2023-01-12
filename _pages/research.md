@@ -15,7 +15,7 @@ There could be *more happening* than you think!
 ## Current Research (Dissertation)
 My dissertation connects two important areas in cognitive science - numerical cognition and data visualizations. The research applies theories and experimental paradigms from numerical cognition to investigate whether people recruit magnitude representations to understand the numerical values depicted in bar graphs. I plan to run three experiments for dissertation. They will evaluate theory-driven predictions concerning the relative efficacy of vertical vs. horizontal bars, how people resolve conflicts between the magnitudes of bars and the numerical values they depict, and the role of gridlines in improving bar graph comprehension. <br>
 
-* I am almost done with data collection. I plan to graduate in May 2023 (fingers crossed). <br>
+* I am writing my dissertation! I plan to graduate in May 2023 (fingers crossed). <br>
 * If you want to follow my progress, here is [Poster Presented at VIS 2022](https://drive.google.com/file/d/1HZKrLijuqF27j4F1QNJvdUd2-Gnpunmx/view?usp=sharing) <br>
 * I also presented my dissertation proposal at the doctoral colloquium at VIS 2022.
 
