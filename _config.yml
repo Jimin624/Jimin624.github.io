@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Jimin Park"
   avatar           : "/assets/images/headshot.png"
-  bio              : "PhD Candidate in Educational Psychology"
+  bio              : "Educational Psychology PhD candidate at the University of Minnesota"
   location         : "Minneapolis, MN"
   email            : "park1481@umn.edu"
   links:
@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "park1481@umn.edu"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-google-scholar-square"
       # url: "https://scholar.google.com/citations?hl=en&user=jn1Yc1MAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

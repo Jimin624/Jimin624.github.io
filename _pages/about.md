@@ -8,7 +8,7 @@ sidebar_main: true
 
 I am a cognitive scientist who is passionate to investigate how people process, learn, and think. My research particularly focuses on cognitive mechanisms underlying the number comprehension - field called **numercial cognition**. 
 
-What do you think people would do when they are asked to compare numbers, for example, 12 vs. 25? Would comparing 112 vs. 125 be as easy as 12 vs. 25? What if people speak other languages? Though 12 vs. 25 seems like a simple comparison, *there could be more happening* than you think! You will be able to know a little bit more about the area if you explore my page! 
+How would you compare 12 and 25? Do you think comparing 112 and 125 be as easy? Do you think you would compare the numbers the same way if you speak another language? There could be *more happening* than you think! You will be able to know a little bit more about the area if you explore my page! 
  
 ### Why do you do psychology research? 
 I enjoy asking questions and finding answers. I always found it fascinating that everyone learns, processes, and thinks differently. Psychology research is a great way to investigate why and how this happens. I also love making implications and applying the findings to the real world settings. This is why my research focuses on questions in education and data visualizations. I plan to expand my research to more areas! 
